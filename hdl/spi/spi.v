@@ -1,6 +1,6 @@
 //////////////////////////////////////////////////////////////////////////////
 //                                                                          //
-//  Minimalistic SPI (3 wire) interface with Zbus interface                 //
+//  Minimalistic SPI (3 wire) interface with Avalon interface               //
 //                                                                          //
 //  Copyright (C) 2008  Iztok Jeras                                         //
 //                                                                          //
