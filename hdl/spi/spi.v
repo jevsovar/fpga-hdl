@@ -1,6 +1,6 @@
 //////////////////////////////////////////////////////////////////////////////
 //                                                                          //
-//  Minimalistic SPI (3 wire) interface with Avalon interface               //
+//  Minimalistic SPI (3 wire) interface with Avalon bus                     //
 //                                                                          //
 //  Copyright (C) 2008  Iztok Jeras                                         //
 //                                                                          //
